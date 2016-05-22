@@ -1,0 +1,9 @@
+p {
+  color: black;
+  font-size: 18px;
+}
+
+p:hover {
+  color: red;
+  font-size: 25px;
+}
