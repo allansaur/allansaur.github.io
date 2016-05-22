@@ -1,2 +1,0 @@
-#!/bin/bash
-cd ~/allansaur/ && git add . && git commit -am "auto commit" && git push origin master
