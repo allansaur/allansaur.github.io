@@ -1,0 +1,6 @@
+open terminal and type the following:
+
+$ cd ~/allansaur
+$ git add --all
+$ git commit -am "add some messsage in quotes"
+$ git push origin master
