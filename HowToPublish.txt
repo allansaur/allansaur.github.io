@@ -2,5 +2,5 @@ open terminal and type the following:
 
 $ cd ~/allansaur
 $ git add --all
-$ git commit -am "add some messsage in quotes"
+$ git commit -am "write some message about what you changed, not this exact sentence!"
 $ git push origin master
