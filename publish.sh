@@ -2,10 +2,10 @@
 git add .
 git commit -am'auto publish'
 git push origin master
-echo '\n'
+echo -en '\n'
 echo "------------"
-echo '\n'
+echo -en '\n'
 echo "site should be published"
-echo '\n'
+echo -en '\n'
 echo "------------"
-echo '\n'
+echo -en '\n'
